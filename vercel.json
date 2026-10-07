@@ -1,12 +1,9 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/fnVusm68Hnmiom",
-      "destination": "/#chatgpt",
-      "permanent": false
-    }
-  ],
-  "rewrites": [
+      "destination": "/course-access.html"
+    },
     {
       "source": "/",
       "destination": "/devai-academy.html"
