@@ -1,4 +1,11 @@
 {
+  "redirects": [
+    {
+      "source": "/fnVusm68Hnmiom",
+      "destination": "/#chatgpt",
+      "permanent": false
+    }
+  ],
   "rewrites": [
     {
       "source": "/",
